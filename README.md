@@ -14,7 +14,7 @@ Sample website with plenty of files for demos
 This is test
 ## How to contribute
 
-Hola! This is Hello in Spanish.
+Please fork this repository
 
 ### Copyright
 
