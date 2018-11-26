@@ -15,3 +15,7 @@ This is test
 ## How to contribute
 
 Hola! This is Hello in Spanish.
+
+### Copyright
+
+Aleksei Prishchepo
